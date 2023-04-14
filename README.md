@@ -44,7 +44,7 @@ Coders For Preservation-(Cofpv) is group that wants to make servers, along with 
 
 2. donations
 
-   - venmo
+   - [venmo](https://rb.gy/1jviv)
    - cashapp
    - paypal
 
