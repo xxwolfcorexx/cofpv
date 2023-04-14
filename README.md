@@ -12,8 +12,8 @@ Coders For Preservation-(Cofpv) is group that wants to make servers, along with 
 
 2. tools
 
-   - websites
-   - files
+   - [websites](/web)
+   - [files](/tools)
    - [misc](/libmisc)
 
 
