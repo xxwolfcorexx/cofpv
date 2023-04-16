@@ -35,11 +35,11 @@ Coders For Preservation-(Cofpv) is group that wants to make servers, along with 
 
 1. work application
 
-   - coding
-   - artist
-   - linguist
-   - sound track
-   - story writer
+   - [coding](https://forms.gle/m2hqRdnH3ANAZZU46)
+   - [artist](https://forms.gle/m2hqRdnH3ANAZZU46)
+   - [linguist](https://forms.gle/m2hqRdnH3ANAZZU46)
+   - [sound track](https://forms.gle/m2hqRdnH3ANAZZU46)
+   - [story writer](https://forms.gle/m2hqRdnH3ANAZZU46)
 
 
 2. donations
